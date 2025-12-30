@@ -1,3 +1,6 @@
+
+//python 3.14.2 langchain 1.2.0 pipeline example
+
 download google antigravity
 install
 sign-in through google account
@@ -17,4 +20,5 @@ write package name then run below command
 uv add -r requirements.txt
 
 uv add ipykernel
+
 
