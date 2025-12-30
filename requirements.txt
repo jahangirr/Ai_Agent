@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+google-generativeai
+langchain-google-vertexai
+pydantic
+langgraph
+
+
